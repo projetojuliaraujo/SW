@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\EXEMPLO\obj\Debug\net7.0\EXEMPLO.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\EXEMPLO\obj\Debug\net7.0\EXEMPLO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\EXEMPLO\obj\Debug\net7.0\EXEMPLO.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\EXEMPLO\obj\Debug\net7.0\EXEMPLO.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\EXEMPLO\obj\Debug\net7.0\EXEMPLO.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\EXEMPLO\bin\Debug\net7.0\EXEMPLO.exe
+C:\Users\LAB4\Desktop\EXEMPLO\bin\Debug\net7.0\EXEMPLO.deps.json
+C:\Users\LAB4\Desktop\EXEMPLO\bin\Debug\net7.0\EXEMPLO.runtimeconfig.json
+C:\Users\LAB4\Desktop\EXEMPLO\bin\Debug\net7.0\EXEMPLO.dll
+C:\Users\LAB4\Desktop\EXEMPLO\bin\Debug\net7.0\EXEMPLO.pdb
+C:\Users\LAB4\Desktop\EXEMPLO\obj\Debug\net7.0\EXEMPLO.dll
+C:\Users\LAB4\Desktop\EXEMPLO\obj\Debug\net7.0\refint\EXEMPLO.dll
+C:\Users\LAB4\Desktop\EXEMPLO\obj\Debug\net7.0\EXEMPLO.pdb
+C:\Users\LAB4\Desktop\EXEMPLO\obj\Debug\net7.0\EXEMPLO.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\EXEMPLO\obj\Debug\net7.0\ref\EXEMPLO.dll
