@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Convertor de temperatura</title>
+    <style>
+
+        body{
+            font-family: Roboto;
+            background: -webkit-linear-gradient(to left, red, blue);
+            background: linear-gradient(to left,  red, blue);
+        }
+
+
+        #container{
+            margin: 0 auto;
+            width: auto;
+            display: table;
+            text-align: center;
+        }
+
+        #convert{
+            margin-top: 2%;
+            background-color: #4331fb;
+        }
+
+        #clear{
+            margin-top: 2%;
+            background-color: red;
+        }
+
+        #convert:hover {
+            background-color: yellow;
+        }
+
+        h1{
+            font-family: sans-serif;
+            color: white;
+        }
+
+        input{
+            display: block;
+            padding: 10px;
+            margin-top: 10px;
+            font-size: 2em;
+            color: orange;
+            font-family: cursive, sans-serif;
+        }
+
+        ::-webkit-input-placeholder{
+            color: #ccc;
+        }
+
+        :-moz-placeholder {
+            color: #ccc;
+        }
+
+        :-moz-placeholder {
+            color: #ccc;
+        }
+
+        :-ms-input-placeholder {
+         color: #ccc;   
+        }
+
+        button{
+            padding: 10px;
+            font-size: 1.2em;
+            color: white
+        }
+
+        h2{
+            color: white;
+            font-family: sans-serif;
+        }
+        
+        img{
+            text-align: center;
+            margin-left: 800px;
+            width: 15%;
+        }
+
+   
+    </style>
+</head>
+<body>
+    <div id="container">
+        <h1> Temperature converter</h1>
+
+        <input type="text" id="celsius" placeholder="celsius" name="c" value="" />
+        <input type="text" id="fahrenheit" placeholder="fahrenheit" name="f" value="" />
+       
+
+        <button id="convert"> Convert</button>
+        <button id="clear"> Reset</button>
+        
+        
+        <h2>Júlia Araújo</H2>
+
+         
+       
+           
+           
+
+           
+    </div>
+    <script src="conversor.js"></script>
+    
+</body>
+<footer>  <img src="img/logoetec.png" alt="etec"> </footer>
+</html>
